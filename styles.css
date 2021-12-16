@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+
+}
+.nav{
+    padding: auto;
+}
+.navi{
+    display: inline-block;
+    background-color: gray;
+    padding: 20 px;
+    color: aliceblue;
+}
+.sidebar{
+    width: 40%;
+    height: 720px;
+    float: inline-start;
+    background-color: aqua;
+    float: left;
+}
+.topSidebar
+{
+    height: 200px;
+    background-color: azure;
+    width: 100%;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.buttomSidebar{
+    height: 550 px;
+    border-radius: 50%;
+}
+#World{
+    width:max-content;
+    border-radius: 50px;
+    border-color: blue;
+    
+    
+}
